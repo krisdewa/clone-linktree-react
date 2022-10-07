@@ -90,6 +90,7 @@ body {
 
 .card-background .btn_action:hover {
   background-color: var(--button-hover);
+  color: #fff;
   font-size: 18px;
   padding: 15px 25px;
 }
