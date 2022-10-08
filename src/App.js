@@ -87,8 +87,13 @@ function App() {
                         </div>
                     </div>
                     <div className="mt-2 text-center">
-                        <small className="text-muted">
+                        {/* <small className="text-muted">
                             © 2022 By. KrisDewa
+                        </small> */}
+                        <small className="text-muted">
+                            Made with{" "}
+                            <i class="bi bi-heart-fill text-danger"></i> By
+                            KrisDewa
                         </small>
                     </div>
                 </div>
