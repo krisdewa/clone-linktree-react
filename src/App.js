@@ -28,7 +28,7 @@ function App() {
                             <div className="d-grid gap-2">
                                 <a
                                     className="btn_action "
-                                    href="https://krisdewa.my.id"
+                                    href="https://krisproject.my.id"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
@@ -58,14 +58,14 @@ function App() {
                                 >
                                     <i class="bi bi-facebook"></i> Facebook
                                 </a>
-                                <a
+                                {/* <a
                                     className="btn_action "
                                     href="https://twitter.com/KrisDewa_"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
                                     <i class="bi bi-twitter"></i> Twitter
-                                </a>
+                                </a> */}
                                 <a
                                     className="btn_action "
                                     href="https://www.youtube.com/c/Krisdewa"
