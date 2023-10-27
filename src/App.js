@@ -17,7 +17,7 @@ function App() {
                                     className="avatar"
                                     alt=""
                                 />
-                                <h3>Krisna Dewa Pratama</h3>
+                                <h3 className="pt-3">Krisna Dewa Pratama</h3>
                                 <p>
                                     Web Developer and Cyber Security Enthusiast
                                 </p>
